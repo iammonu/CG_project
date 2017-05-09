@@ -1,5 +1,5 @@
 #include "circle.h"
-
+// Hey this is a comment
 Circle::Circle(vec2 center,GLfloat radius,int np,color3 color) {
     pointsNum = np; //np
     points = new vec2[pointsNum];
